@@ -46,11 +46,13 @@ cd react-chatbot
 ```
 
 ## Install dependencies
+```bash
 npm install
-
+```
 ## Start the development server
+```bash
 npm run dev
-
+```
 ## How It Works
 1.User types a message in the input field
 2.Message is stored in React state
