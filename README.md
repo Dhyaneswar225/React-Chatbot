@@ -55,9 +55,13 @@ npm run dev
 ```
 ## How It Works
 1.User types a message in the input field
+-
 2.Message is stored in React state
+-
 3.Chatbot generates a response
+-
 4.Messages are rendered dynamically
+-
 5.Chat auto-scrolls to the latest message
 
 ## Website
